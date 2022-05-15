@@ -1,0 +1,4 @@
+C:\Users\DikdikD2\Desktop\IQBAL\IQBALPBO\TMDPBO\src\Main.java
+C:\Users\DikdikD2\Desktop\IQBAL\IQBALPBO\TMDPBO\src\views\Home.java
+C:\Users\DikdikD2\Desktop\IQBAL\IQBALPBO\TMDPBO\src\views\Window.java
+C:\Users\DikdikD2\Desktop\IQBAL\IQBALPBO\TMDPBO\src\views\Game.java

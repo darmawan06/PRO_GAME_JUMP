@@ -1,10 +1,10 @@
-package tmdpbo.views.*;
+package Views;
 
 import javax.swing.*;
 
 class Window extends JFrame{
-	public Window(String title){
-		setTitle(title);
+	public Window(){
+		setTitle("The Survive Hop");
 		setSize(1000,600);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		visible(true);
@@ -15,6 +15,6 @@ class Window extends JFrame{
 	}
 
 	protected void close(){
-		disponse();
+		dispose();
 	}
 }
